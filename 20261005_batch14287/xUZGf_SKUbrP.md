@@ -21,17 +21,3 @@
 <h3><a href="https://blogb17r1.zzkiae.cn">可携带空气净化器或可抗污染</a></h3>
 <p>两名乔治亚州的企业家发明了可携带净化器，他们称这种产品可以产生洁净新鲜的空气。<br>
  | 来源：<code>https://blogb17r1.zzkiae.cn</code></p>
-
-<hr>
-<h2>素材出处与说明</h2>
-<p>新闻标题和摘要据维基新闻公开存档整理，已做简繁转换、摘要摘编及日期表述清理；采用 <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>。“来源”栏及标题链接为本批指定的关联网址，新闻原文和作者记录见下方，不表示关联网址就是新闻原始发布方。</p>
-<details>
-<summary>查看本篇 5 条新闻原文（与正文顺序一致）</summary>
-<ol>
-<li><a href="https://zh.wikinews.org/w/index.php?oldid=124270">新闻原文 1</a>（原页面含作者记录）</li>
-<li><a href="https://zh.wikinews.org/w/index.php?oldid=252141">新闻原文 2</a>（原页面含作者记录）</li>
-<li><a href="https://zh.wikinews.org/w/index.php?oldid=118549">新闻原文 3</a>（原页面含作者记录）</li>
-<li><a href="https://zh.wikinews.org/w/index.php?oldid=203856">新闻原文 4</a>（原页面含作者记录）</li>
-<li><a href="https://zh.wikinews.org/w/index.php?oldid=124136">新闻原文 5</a>（原页面含作者记录）</li>
-</ol>
-</details>
